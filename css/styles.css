@@ -3856,7 +3856,7 @@ h1 {
   margin-top: 50px; }
 
 .field {
-  max-width: 500px;
+  max-width: 600px;
   margin: 0 auto; }
 
 .select select {
@@ -3864,4 +3864,4 @@ h1 {
   align-items: center;
   justify-content: center;
   justify-self: center;
-  width: 500px !important; }
+  width: 600px; }
